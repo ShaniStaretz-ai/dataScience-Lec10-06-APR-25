@@ -32,5 +32,8 @@ End of pandas, start of graphs
   ![img_5.png](img_5.png)
   * since the first action is lambda, the result will be like:
   ![img_6.png](img_6.png)
-    * therefore to rename :
+    * therefore to rename : 
+## Matplotlib Library: visualization library
+![img_7.png](img_7.png)
+
     
