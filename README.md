@@ -26,3 +26,11 @@ End of pandas, start of graphs
     * the function to_datetime need to identify the input's format, 
     * in order to convert to datetime object, therefore need to provide the list of possible formats. 
     if it doesn't recognize will try the next format or set value of NaT/NaN
+* pivot table:  presentation 23
+  * another way to groupby and run aggregation action on the data  per index and display
+  * it's like groupby by 2 groups: the first is index, and the second the columns.
+  ![img_5.png](img_5.png)
+  * since the first action is lambda, the result will be like:
+  ![img_6.png](img_6.png)
+    * therefore to rename :
+    
