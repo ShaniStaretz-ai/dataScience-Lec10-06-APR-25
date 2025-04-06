@@ -32,7 +32,10 @@ End of pandas, start of graphs
   ![img_5.png](img_5.png)
   * since the first action is lambda, the result will be like:
   ![img_6.png](img_6.png)
-    * therefore to rename : 
+    * therefore use for loop : ![img_8.png](img_8.png) 
+    and then rename the column:    ![img_10.png](img_10.png)
+  * save the df to external file df.to_csv/html/excel (file):
+  * ![img_9.png](img_9.png)
 ## Matplotlib Library: visualization library
 ![img_7.png](img_7.png)
 
